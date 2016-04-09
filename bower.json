@@ -1,0 +1,20 @@
+{
+  "name": "photoapp",
+  "version": "0.0.0",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular": "latest",
+    "angular-mocks": "latest",
+    "jquery": "latest",
+    "bootstrap-sass":"latest",
+    "bootstrap":"latest",
+
+    "angular-route": "latest",
+    "angular-resource": "latest",
+    "angular-animate": "latest",
+    "angular-route-styles" :"latest",
+    "angular-ui-bootstrap":"latest"
+
+  }
+}
