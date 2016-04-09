@@ -24,7 +24,8 @@
             </div>
           </div>
           <div ng-repeat="Elements in images">
-            {{Elements}}
+            <div ng-repeat="urls in Elements">
+            <img src="{{urls.thumb}}">
           </div>
         </div>
       </div>
