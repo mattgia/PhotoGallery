@@ -9,7 +9,7 @@
     "jquery": "latest",
     "bootstrap-sass":"latest",
     "bootstrap":"latest",
-
+"angular-ui-router":"latest",
     "angular-route": "latest",
     "angular-resource": "latest",
     "angular-animate": "latest",
